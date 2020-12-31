@@ -1,1 +1,1 @@
-翻译并读写文件的ssr项目
+object-console: 传入console对象 可以打印可视化字符串
